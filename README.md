@@ -9,3 +9,7 @@ Formats in which ```Rohit Sharma``` Plays are:
 
 # Jupyter Notebook codes
 Install the required libraries and run the Cells one by one
+
+# Graphical User Interface(GUI)
+Scroll down and you will find GUI codes will utilize Tkinter to Display the result/output in a GUI window.
+Make you to install all the libraries before running the codes
